@@ -1,3 +1,3 @@
 # JM01-leon-practice
-- CSS structure\n
+- CSS structure
 - CSS order
